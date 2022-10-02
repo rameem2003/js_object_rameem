@@ -140,6 +140,7 @@ const mySelf = {
             device3 : "Redmi 8 (My smartphone)",
         },
         myBestPartner : "Fahmida Yeasmin",
+        msgForMyBelovedFriends : "My close friends are my strength and also my weakness. I love my frineds lot. Specially fahmida, she is my important part of my life. When I fall into depression then she gives lots of hopes and happyness. Also all friends give me power. Always with you guys. Valobasha Obiram."
     }
 }
 
