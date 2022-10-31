@@ -43,14 +43,21 @@ const me = {
                 name : "Fahmida Yeasmin",
                 friendStatus : "Best Friend",
                 age : 22,
-                msg : "",
+                msg : "I will always with you Rameem. Love you alavola vai 🥰",
             },
 
             friend2 : {
                 name : "Mahabul Alam",
-                friendStatus : "My inocent good friend",
+                friendStatus : "My inocent good friend like brother",
                 age : 20,
-                msg : "",
+                msg : "প্রচুর মুখস্ত করতে হবে।",
+            },
+
+            friend3 : {
+                name : "Jahedul Islam Rasel",
+                friendStatus : "My ",
+                age : 20,
+                msg : "প্রচুর মুখস্ত করতে হবে।",
             }
         }
     }
