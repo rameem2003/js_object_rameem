@@ -55,10 +55,27 @@ const me = {
 
             friend3 : {
                 name : "Jahedul Islam Rasel",
-                friendStatus : "My ",
+                friendStatus : "My noakhailla brother",
                 age : 20,
-                msg : "প্রচুর মুখস্ত করতে হবে।",
-            }
+                msg : "খিদা লাগছে চল বাতেনকে চুনা দেই",
+            },
+
+            friend4 : {
+                name : "Pabel Pathan",
+                friendStatus : "Stylish Man",
+                age : 20,
+                msg : "cholo jai k te kacchi te",
+            },
+
+
+            friend5 : {
+                name : "Abdul Baten",
+                friendStatus : "Our ATM Card bro",
+                age : 20,
+                msg : "টাকা নাই 😒 ( সবচেয়ে বড় গুজব )",
+            },
         }
     }
 }
+
+console.log(me.mySelf.myFriends);
